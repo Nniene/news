@@ -1,0 +1,11 @@
+header {
+    height: 400px;
+    background: url(https://i.imgur.com/SHBydpw.jpg) bottom no-repeat;
+    background-size: 105%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+
+}
